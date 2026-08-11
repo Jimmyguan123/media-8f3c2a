@@ -1,0 +1,11 @@
+{
+  "lives": [
+    {
+      "name": "频道列表",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Jimmyguan123/media-8f3c2a/main/d8f3c2a.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15"
+    }
+  ]
+}
