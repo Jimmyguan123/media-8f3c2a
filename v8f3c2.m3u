@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视体育",CCTV-5 体育
+http://124.165.251.82:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视体育",CCTV-5+ 体育赛事
+http://175.154.151.98:808/hls/6/index.m3u8
